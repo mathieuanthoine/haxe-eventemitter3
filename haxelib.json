@@ -3,9 +3,9 @@
   "license": "MIT",
   "tags": ["js","haxe","extern","web"],
   "description": "Haxe externs for EventEmitter 3",
-  "contributors": ["mathieu_anthoine"],
+  "contributors": ["mathieu_anthoine","mathieuanthoine"],
   "releasenote": "Release of version 1.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/mathieuanthoine/haxe-eventemitter3",
   "classPath": "src",
   "dependencies": {
